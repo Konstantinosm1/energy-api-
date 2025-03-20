@@ -19,3 +19,4 @@ sh==2.2.2
 tk==0.1.0
 urllib3==2.3.0
 virtualenv==20.29.3
+gunicorn
